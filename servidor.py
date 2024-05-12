@@ -5,7 +5,7 @@
 
 # Custom version
 # mohist / catserver   Install forge   first
-# purpur               Install fabric  first
+# purpur               Install fabric  firsts
 # snapshot             Install vanilla first
 
 # Ngrok region
